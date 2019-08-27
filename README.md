@@ -1,11 +1,4 @@
-# hello-world
-just another repository
+使用kaggle比赛上的数据集Twitter Sentiment进行情感分析
 
+基于pytorch使用RNN-LSTM模型进行建模
 
-说点什么好呢，也不知道说啥，就这样吧
-嘿嘿
-it is the first time for me to use Github and it's so cool
-
-
-这样就可以了么
-我再随便加点东西吧
